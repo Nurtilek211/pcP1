@@ -6,7 +6,8 @@ function Header() {
     <header className='header'>
       <div className='top-header'>
         <div className='header-select'>
-          <p>Summer Sale For All Swim Suits And Free Express Delivery - OFF 50%!</p>
+          <div className='Header_1'><p>Summer Sale For All Swim Suits And Free Express Delivery - OFF 50%!</p>
+          <a href="">ShopNow</a></div>
           <select>
             <option value="kg">KGZ</option>
             <option value="en">ENG</option>
